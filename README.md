@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Thanyakan Maneetool (Fahsi), currently a 3rd student of computer science at King Mongkut’s University of Technology Thonburi.
 <!--
 **fahsaifst/fahsaifst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
