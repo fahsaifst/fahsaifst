@@ -1,6 +1,14 @@
-### Hi there 👋
+## Hi there!👋🏻 
 
-I am Thanyakan Maneetool (Fahsi), currently a 3rd student of computer science at King Mongkut’s University of Technology Thonburi.
+####  I am Thanyakan Maneetool (Fahsai) 🌤 
+🌟 currently a 3rd year student of Computer Science at King Mongkut’s University of Technology Thonburi.
+
+<a href="https://github.com/fahsaifst/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fahsaifst&theme=buefy" />
+</a>
+<a href="https://github.com/fahsaifst/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahsaifst&layout=compact&theme=buefy&langs_count=8&card_width=320" />
+</a>
 <!--
 **fahsaifst/fahsaifst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
