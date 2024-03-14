@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fahsaifst&theme=buefy" />
 </a>
 <a href="https://github.com/fahsaifst/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahsaifst&layout=compact&theme=buefy&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahsaifst&layout=compact&theme=buefy&langs_count=8&card_width=300" />
 </a>
 <!--
 **fahsaifst/fahsaifst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
