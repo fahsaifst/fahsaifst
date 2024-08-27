@@ -1,7 +1,7 @@
 ## Hi there!👋🏻 
 
 ####  I am Thanyakan Maneetool (Fahsai) 🌤 
-🌟 currently a 3rd year student of Computer Science at King Mongkut’s University of Technology Thonburi.
+🌟 currently a 4th year student of Computer Science at King Mongkut’s University of Technology Thonburi.
 
 <a href="https://github.com/fahsaifst/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fahsaifst&theme=buefy" />
